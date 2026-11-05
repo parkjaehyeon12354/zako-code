@@ -15,3 +15,5 @@ tts_out/resp_*.json
 tts_out/round1/resp_*.json
 tts_out/round1/*.wav
 tts_out/p??.wav
+tts_out/src73.mp4
+tts_out/*.f32
