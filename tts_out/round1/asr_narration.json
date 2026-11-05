@@ -1,0 +1,41 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "공유 재산 한 건을 조사할 때 필요한 사항은 모두 확인했습니다.\n토지 대장과 등기부는 기본, 갑구 을구의 권리 관계까지 확인해 조치했습니다.\n토지 이음, 고시 자료로 사업 편입을 확인해 편입 토지는 조사에서 제외했습니다.\n도시 계획 시설과 도로 구역 결정도 확인했습니다.\n지적도와 함께 보며 지목이 맞는지, 합병은 어디까지 되는지도 검토했습니다.\n점유 의심을 고르면 진행 상태가 회신되기로 바뀝니다.\n건물도 건축물 대장, 등기부와 대조했습니다.\n공실 여부와 활용 계획까지 조사했습니다.\n사용 허가, 대부 같은 임대 현황도 함께 확인했습니다.\n확인하고 정비하고 관리 방안까지 세워 조치했습니다.\n무형 재산은 대조할 공부가 없습니다.\n등록 기관에 505건을 건별로 조회했습니다.\n등록 사실이 없으면 확인 불가입니다.\n대상이 아니면 부적정으로 판정하고 대장에서 삭제했습니다.\n입목 죽은 현장에서 실물을 확인했습니다.\n등록 대상이 아닌 수목은 공유 재산이 아닙니다.\n판정과 정비 결과를 같은 행에 남깁니다.\n내 조서 모두 한 행에서 판정합니다."
+          }
+        ]
+      },
+      "finishReason": "STOP"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1855,
+    "candidatesTokenCount": 296,
+    "totalTokenCount": 2698,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 30
+      },
+      {
+        "modality": "AUDIO",
+        "tokenCount": 1825
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 296
+      }
+    ],
+    "thoughtsTokenCount": 547
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "createTime": "2026-11-05T02:55:47.250504Z",
+  "responseId": "M_DraoilD_aNoMYPueTqqQk"
+}

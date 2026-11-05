@@ -1,0 +1,41 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "점유 의심을 고르면 진행 상태가 회신 대기로 바뀝니다."
+          }
+        ]
+      },
+      "finishReason": "STOP"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 130,
+    "candidatesTokenCount": 18,
+    "totalTokenCount": 230,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 100
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 30
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 18
+      }
+    ],
+    "thoughtsTokenCount": 82
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "createTime": "2026-11-05T02:57:16.119901Z",
+  "responseId": "jPDrat2oB__JiLsPwtWQQA"
+}

@@ -11,3 +11,7 @@ app/dist/
 
 # Visual Studio 작업 상태
 .vs/
+tts_out/resp_*.json
+tts_out/round1/resp_*.json
+tts_out/round1/*.wav
+tts_out/p??.wav

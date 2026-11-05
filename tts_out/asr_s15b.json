@@ -1,0 +1,41 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "임목죽은 현장에서 실무를 확인했습니다."
+          }
+        ]
+      },
+      "finishReason": "STOP"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 105,
+    "candidatesTokenCount": 12,
+    "totalTokenCount": 180,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "AUDIO",
+        "tokenCount": 75
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 30
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 12
+      }
+    ],
+    "thoughtsTokenCount": 63
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "createTime": "2026-11-05T02:57:18.691379Z",
+  "responseId": "jvDrarOZKv_JiLsPwtWQQA"
+}
